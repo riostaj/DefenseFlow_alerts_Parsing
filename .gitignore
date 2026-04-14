@@ -1,0 +1,19 @@
+# ── Input log files (can be large zip archives) ──────────────────
+Input/
+Arbor/Input/
+Kentik/Input/
+
+# ── Generated report outputs ──────────────────────────────────────
+Reports/
+Arbor/Reports/
+Kentik/Reports/
+
+# ── Python cache ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── OS / editor noise ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
